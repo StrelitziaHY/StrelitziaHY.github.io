@@ -10,4 +10,5 @@ yanhanphy[at]pku.edu.cn
 2018.08 - 2022.06, Astronomy, School of Physics, Peking University.
 
 #### Research Interests
-Gravitational-waves astrophysics, including gravity theory, multi-messenger-source observation, and detection techniques.
+Gravitational-waves astrophysics: including gravity theory, multi-messenger-source (modeling and observation), and data analysis techniques.
+Currently I am working on lunar gravitational wave detection (basic theory + detector analysis).
