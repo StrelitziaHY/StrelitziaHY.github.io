@@ -1,3 +1,5 @@
+"Progress in Lunar seismic GW detection: theory and simulation", in 第十五届京广厦天体物理研讨会 ( https://physics.gxu.edu.cn/info/1012/2558.htm ), July 2025
+
 "Progress in Lunar seismic GW detection: theory and simulation" (Invited), in BIMSA Workshop on Gravitational Wave Astronomy ( https://bimsa.net/activity/GraWavAst/ ), April 2025
 
 "Constraining the stochastic gravitational wave background using the future lunar seismometers" (Invited), in the Continuous Gravitational Waves School at KIAA ( https://garvinyim.wixsite.com/home/cw-school-at-kiaa ), July 2024
