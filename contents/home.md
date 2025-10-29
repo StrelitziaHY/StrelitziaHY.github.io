@@ -15,4 +15,4 @@ hyan.phy[at]gmail.com
 #### Research Interests
 I have a wide interest in Gravitational-waves astrophysics: including gravity theory, multi-messenger-source, data analysis techniques, and instrument techniques.
 
-Currently I am working on lunar gravitational wave detection. We hope to have a comprehensive understanding of this amazing techniques, from basic response theory to detector/source analysis, and even including its geophysics applications.
+Currently I am working on lunar seismic gravitational wave detection. We hope to have a comprehensive understanding of this amazing techniques, from basic response theory to detector/source analysis, and even including its geophysics applications.
