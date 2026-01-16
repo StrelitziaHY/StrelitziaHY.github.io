@@ -1,4 +1,18 @@
 
+<a
+    id="cy-effective-orcid-url"
+    class="underline"
+     href="https://orcid.org/0000-0003-1320-5243"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+      https://orcid.org/0000-0003-1320-5243
+    </a>
+    
 I am currently pursuing a Ph. D.'s Degree in astrophysics, at Department of Astronomy & Kavli Institute for Astronomy and Astrophysics, Peking University.
 
 #### Email
@@ -14,20 +28,8 @@ hyan.phy[at]gmail.com
 2018.08 - 2022.06, Astronomy, School of Physics, Peking University.
 
 #### Research Interests
-I have a wide interest in Gravitational-waves astrophysics: including gravity theory, multi-messenger-source, data analysis techniques, and instrument techniques.
+I have broad interests in gravitational-wave astrophysics, including gravity theory, multi-messenger astronomy, data-analysis methods, and instrumentation.
 
-Currently I am working on lunar seismic gravitational wave detection. We hope to have a comprehensive understanding of this amazing detection technique, from basic response theory to detector/source analysis, and even including its geophysics applications.
+I am currently working on the detection of gravitational waves using lunar seismology. Our goal is to develop a comprehensive understanding of this promising detection technique: from basic response theory and detector/source analysis to potential applications in geophysics.
 
- <a
-    id="cy-effective-orcid-url"
-    class="underline"
-     href="https://orcid.org/0000-0003-1320-5243"
-     target="orcid.widget"
-     rel="me noopener noreferrer"
-     style="vertical-align: top">
-     <img
-        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-        style="width: 1em; margin-inline-start: 0.5em"
-        alt="ORCID iD icon"/>
-      https://orcid.org/0000-0003-1320-5243
-    </a>
+ 
