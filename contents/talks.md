@@ -1,4 +1,4 @@
-"Lunar Gravitational-Wave Detection: The Next Frontier Bridging the Gap", in GWnext 2026 ( https://aletorreso.wixsite.com/atogw/gwnext2026 ), March 2026
+"Lunar Gravitational-Wave Detection: The Next Frontier Bridging the Gap" (Invited), in GWnext 2026 ( https://aletorreso.wixsite.com/atogw/gwnext2026 ), March 2026
 
 "Progress in Lunar seismic GW detection: theory and simulation", in 第十五届京广厦天体物理研讨会 ( https://physics.gxu.edu.cn/info/1012/2558.htm ), July 2025
 
