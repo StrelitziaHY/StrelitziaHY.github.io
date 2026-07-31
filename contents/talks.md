@@ -1,3 +1,5 @@
+"Gravitational-wave tomography of the Moon: Constraining lunar structure with calibrated gravitational waves", in The 2nd Sino-Europe Workshop on Lunar Gravitational Wave Detection ( https://indico.itp.ac.cn/event/423/ ), July 2026
+
 "Seismic background mitigation with the Lunar Gravitational-wave Antenna", in GRAvitational-waves Science&technology Symposium (GRASS) 2026 ( https://agenda.infn.it/event/50093/ ), June 2026
 
 "Lunar Gravitational-Wave Detection: The Next Frontier Bridging the Gap" (Invited), in GWnext 2026 ( https://aletorreso.wixsite.com/atogw/gwnext2026 ), March 2026
