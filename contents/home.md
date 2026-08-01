@@ -21,7 +21,7 @@ yanhanphy[at]pku.edu.cn
 hyan.phy[at]gmail.com
 
 #### Education
-2025.09 - 2026.7, visiting PhD student at Gran Sasso Science Institute, Italy
+2025.09 - 2026.07, visiting PhD student at Gran Sasso Science Institute, Italy
 
 2022.08 - present, Astrophysics, Department of Astronomy & Kavli Institute for Astronomy and Astrophysics, Peking University.
 
